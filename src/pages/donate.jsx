@@ -25,7 +25,7 @@ export default function Donate() {
                     <p>Ho Dieu Anh</p>
                 </div>
                 <div className="col-md-1">
-                <img src="https://www.imgonline.com.ua/examples/qr-code.png" alt="placeholder qr dont scan" className="donation-qr"/>
+                <img src="src/assets/donate-qr.jpg" alt="placeholder qr dont scan" className="donation-qr"/>
                 <p className="donate-qr-text">
                 scan this qr to donate
                 </p>

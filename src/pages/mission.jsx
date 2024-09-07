@@ -46,7 +46,7 @@ export default function Mission() {
     <h1>Learn More?</h1>
     <p>Click the icon below for an introduction of our team!</p> 
     <p>Nhấn vào biểu tượng bên dưới để tìm hiểu thêm về nhóm của chúng tôi!</p>
-    <a data-mdb-ripple-init class="btn btn-mission btn-lg" href="donate.html" role="button">Learn More</a>
+    <a data-mdb-ripple-init class="btn btn-mission btn-lg" href="/about" role="button">Learn More</a>
   </div>
     </div>
   </motion.div>
