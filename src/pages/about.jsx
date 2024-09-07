@@ -7,21 +7,21 @@ const profileOne = [
     title: "Jenny Ho",
     subtitle: "Founder",
     text: "Caring for the elderly reflects our community's values, demonstrating compassion, empathy, and inclusivity. This support not only enhances their quality of life but also fosters a sense of value and connection, encouraging them to feel valued within our community.",
-    img: "src/assets/jenny.JPG",
+    img: "/jenny.JPG",
   },
   {
     id: 1,
     title: "Lan Anh Khuc",
     subtitle: "Founder",
     text: "This is all about connecting generations and empowering the hope in the hearts of our elders. Each act of kindness reassures them that they are always seen and loved.",
-    img: "src/assets/lananh.JPG",
+    img: "/lananh.JPG",
   },
   {
     id: 2,
     title: "Momone Kawaguchi",
     subtitle: "Event manager",
     text: "We, the younger generation, were able to live on what our older generation have built. It is one of the reasons why we are able to create our own happiness in our life. Now, it is time for us to show our gratitude and give back.",
-    img: "src/assets/momo.JPG",
+    img: "/momo.JPG",
   },
 ];
 const profileTwo = [
@@ -30,21 +30,21 @@ const profileTwo = [
     title: "Sally Do",
     subtitle: "Media Manager",
     text: "Helping and supporting the elderly is an act of gratitude, repaying the love and care they once gave us. It is a way to honor and celebrate their wisdom through generations.",
-    img: "src/assets/sally.JPG",
+    img: "/sally.JPG",
   },
   {
     id: 4,
     title: "Kim Tran",
     subtitle: "Treasurer",
     text: "Helping elders is not just a duty but a profound privilege. By offering our support and kindness, we honor their lifetime full of knowledge and experiences, ensuring they feel valued and cherished in their golden years.",
-    img: "src/assets/kim.JPG",
+    img: "/kim.JPG",
   },
   {
     id: 5,
     title: "Eden Nguyen",
     subtitle: "Web Designer",
     text: "To honor the elderly is to honor the past, present, and future. Their stories connect generations, their needs reflect our humanity, and their well-being is a reflection of our society.",
-    img: "src/assets/eden.JPG",
+    img: "/eden.JPG",
   },
 ];
 

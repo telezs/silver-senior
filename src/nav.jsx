@@ -5,7 +5,7 @@ export default function Nav() {
   return (
    <nav className="navbar sticky-top navbar-expand-md" id='nav-bar'>
     <Link to="/" className="navbar-brand">
-    <img src="src/assets/logo.png"  alt="Logo" width="40" height="40" className="d-inline-block" />
+    <img src="/logo.png"  alt="Logo" width="40" height="40" className="d-inline-block" />
     <span>Silver Seniors</span>
     </Link>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
